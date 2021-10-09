@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    This is my index
+    <div class="container h2">
+        Posts will go here
+    </div>
 @endsection
